@@ -1,0 +1,1672 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>OpenStreetMap Wiki</sitename>
+    <dbname>wiki</dbname>
+    <base>http://wiki.openstreetmap.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.26.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">OpenStreetMap</namespace>
+      <namespace key="5" case="first-letter">OpenStreetMap talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="200" case="first-letter">DE</namespace>
+      <namespace key="201" case="first-letter">DE talk</namespace>
+      <namespace key="202" case="first-letter">FR</namespace>
+      <namespace key="203" case="first-letter">FR talk</namespace>
+      <namespace key="204" case="first-letter">ES</namespace>
+      <namespace key="205" case="first-letter">ES talk</namespace>
+      <namespace key="206" case="first-letter">IT</namespace>
+      <namespace key="207" case="first-letter">IT talk</namespace>
+      <namespace key="208" case="first-letter">NL</namespace>
+      <namespace key="209" case="first-letter">NL talk</namespace>
+      <namespace key="210" case="first-letter">RU</namespace>
+      <namespace key="211" case="first-letter">RU talk</namespace>
+      <namespace key="212" case="first-letter">JA</namespace>
+      <namespace key="213" case="first-letter">JA talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Id:Referensi Atribut Objek OSM Indonesia</title>
+    <ns>0</ns>
+    <id>155239</id>
+    <revision>
+      <id>1306477</id>
+      <parentid>1305955</parentid>
+      <timestamp>2016-05-31T04:38:05Z</timestamp>
+      <contributor>
+        <username>Harrymahar</username>
+        <id>44964</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="76526">OpenStreetMap merupakan peta digital yang menampilkan berbagai macam objek yang terdapat di atas permukaan bumi. Dengan sifatnya yang '''Gratis''' dan '''Terbuka''', OpenStreetMap memungkinkan kepada para pengguna untuk memberikan tag/informasi apapun terhadap objek yang kita petakan. Oleh karena itu, untuk menghindari kesalahan serta ketidaksamaan informasi terhadap objek yang ada maka OpenStreetMap telah menyediakan referensi umum yang dapat digunakan oleh para pengguna di halaman [[Map Features]] dalam memberikan infromasi terhadap objek yang dipetakan.
+
+Akan tetapi, seiring bertambah banyaknya para pengguna OpenStreetMap di seluruh dunia maka jumlah dan jenis informasi yang dimasukkan juga semakin beragam. Halaman dari Map Feature yang berisikan informasi terhadap objek-objek di OpenStreetMap dianggap tidak cukup untuk membantu terutama untuk objek spesifik yang biasanya hanya terdapat di suatu negara termasuk di Indonesia. Seringkali  para pengguna tidak mendapatkan informasi tag terhadap objek yang mereka cari di Map Feature atapun melewatkan objek tersebut karena berbeda nama. Biasanya objek tersebut memiliki nama lokal sendiri seperti posyandu, pesantren dan lain-lain.
+
+Berangkat dari hal di atas maka halaman ini khusus khusus dibuat untuk memberikan referensi atribut objek-objek OSM yang ada di Indonesia. Dalam halaman ini objek-objek yang ada akan dibagi ke dalam beberapa kategori dimana akan disesuaikan pula dengan presets Objek Indonesia. Diharapkan halaman ini dapat membantu para pengguna dan komunitas OpenStreetMap di Indonesi dalam memetakan objek di wilayah mereka. Perlu diingat, bahwa daftar objek yang ada di halaman ini belum sepenuhnya lengkap serta informasi yang ditampilkan dapat dirubah sewaktu-waktu sesuai dengan aturan dan ketentuan dari OpenStreetMap.
+
+=OBJEK TITIK DAN POLIGON (BANGUNAN)=
+Daftar objek di bawah ini merupakan jenis objek yang dapat digambarkan sebagai titik ataupun bangunan. Untuk objek yang '''hanya digambarkan''' sebagai '''bangunan''' adalah yang hanya memiliki simbol {{icon|a}} dan objek yang '''hanya digambarkan''' sebagai '''titik/point''' adalah objek yang memiliki simbol {{icon|n}}. Adapun penggambaran objek yang '''dapat digambarkan''' sebagai '''objek atau titik''' adalah objek yang memiliki simbol {{icon|n}} dan {{icon|a}}. Sebaiknya objek ini digambarkan sebagai bangunan jika terlihat jelas ''building footprint'' objek tersebut di citra satelit akan tetapi jika memang objek tersebut tidak terlihat jelas di citra satelit maka kita dapat menandai objek tersebut sebagai titik saja.
+ 
+==Pendidikan==
+Ini merupakan objek-objek yang memberikan fasilitas pelayanan pendidikan khususnya pendidikan formal seperti sekolah. Berikut adalah objek-objek di Indonesia yang terkait dengan pendidikan:
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||PAUD||{{icon|n}} {{icon|a}}||Tempat bermain dan belajar untuk anak di bawah usia lima tahun (balita)||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{kindergarten:value|Tag:amenity=kindergarten}}} | kindergarten]]||[[File:Rendering-area-amenity-school.png|45px]]||
+|-
+||2.||Taman Kanak-Kanak||{{icon|n}} {{icon|a}}||Tempat pendidikan untuk anak usia dini (5-6 tahun)||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{kindergarten:value|Tag:amenity=kindergarten}}} | kindergarten]]||[[File:Rendering-area-amenity-school.png|45px]]||
+|-
+||3.||Sekolah Dasar (SD) / Madrasah Ibtidaiyah (MI)||{{icon|n}} {{icon|a}}||Tempat pendidikan dasar. Biasanya ditempuh selama 6 tahun.||
+* [[{{{amenity:key|key:amenity}}} | amenity]]
+* school:type_idn
+|| 
+* [[{{{school:value|Tag:amenity=school}}} | school]]
+* sd
+||[[File:Rendering-area-amenity-school.png|45px]]
+||[[File:Suasana di sebuah Sekolah Dasar.jpg|100px|center]]
+|-
+||4.||Sekolah Menengah Pertama (SMP) / Madrasah Tsanawiyah (MTs)||{{icon|n}} {{icon|a}}||Tempat pendidikan lanjutan setelah SD. Lama pendidikan selama 3 tahun||
+* [[{{{amenity:key|key:amenity}}} | amenity]]
+* school:type_idn
+|| 
+* [[{{{school:value|Tag:amenity=school}}} | school]]
+* smp
+||[[File:Rendering-area-amenity-school.png|45px]]
+||[[File:Gerbang depan smpn 1 depok.jpg|100px|center]]
+|-
+||5.||Sekolah Menengah Atas (SMA) / Madrasah Aliyah (MA)||{{icon|n}} {{icon|a}}||Tempat pendidikan lanjutan setelah SMP. Lama pendidikan selama 3 tahun||
+* [[{{{amenity:key|key:amenity}}} | amenity]]
+* school:type_idn
+|| 
+* [[{{{school:value|Tag:amenity=school}}} | school]]
+* sma
+||[[File:Rendering-area-amenity-school.png|45px]]
+||[[File:SMUN 54 Jakarta.jpg|100px|center]]
+|-
+||6.||Sekolah Tinggi||{{icon|n}} {{icon|a}}||Institusi yang menyelenggarakan pendidikan ilmiah dan/atau pendidikan profesional dalam satu disiplin ilmu tertentu||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{college:value|Tag:amenity=college}}} | college]]||[[File:Rendering-area-amenity-school.png|45px]]||[[File:Sekolah Tinggi Teknik PLN.jpeg|100px|center]]
+|-
+||7.||Universitas||{{icon|n}} {{icon|a}}||Perguruan Tinggi yang terdiri atas sejumlah fakultas yang menyelenggarakan pendidikan ilmiah dan/atau profesional dalam sejumlah disiplin ilmu tertentu||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{university:value|Tag:amenity=university}}} | university]]||[[File:Rendering-area-amenity-school.png|45px]]||[[File:Universidad Indonesia Edificio Administrativo.JPG|100px|center]]
+|}
+
+==Kesehatan==
+Objek yang memberikan pelayanan dan fasilitas di bidang kesehatan seperti pengobatan dan perawatan. Berikut adalah objek kesehatan yang ada di Indonesia:
+
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Puskesmas||{{icon|n}} {{icon|a}}||Fasilitas fungsional yang bersifat melayani masalah kesehatan masyarakat. Biasanya cakupan pelayanannya sampai tingkat kelurahan/desa||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{clinic:value|Tag:amenity=clinic}}} | clinic]]||||[[File:Puskesmas Sungai Mariam, Kutai Kartanegara.jpg|100px|center]]
+|-
+||2.||Posyandu||{{icon|n}} {{icon|a}}||Fasilitas kesehatan yang berfokus pada pelayanan kesehatan ibu dan anak. Biasanya tidak dibuka setiap hari dan hanya satu bulan sekali||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{clinic:value|Tag:amenity=clinic}}} | clinic]]||||[[File:Posyandu.png|100px|center]]
+|-
+||3.||Rumah Sakit||{{icon|n}} {{icon|a}}||Gedung tempat menyediakan dan memberikan pelayanan kesehatan yang meliputi berbagai masalah kesehatan||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{hospital:value|Tag:amenity=hospital}}} | hospital]]||[[File:Hospital-16.svg|32px|center]]||[[File:Awal Bros Hospital at Batam Island, Indonesia.JPG|100px|center]]
+|-
+||4.||Rumah Praktik Dokter/Bidan||{{icon|n}} {{icon|a}}||Bangunan/rumah yang menyediakan fasilitas praktik dokter umum untuk kegiatan pengobatan ataupun bidan untuk membantu kegiatan persalinan||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{doctors:value|Tag:amenity=doctors}}} | doctors]]||[[File:Doctor-16.svg|32px|center]]||[[File:Doctors stethoscope 2.jpg|100px|center]]
+|-
+||5.||Dokter Gigi||{{icon|n}} {{icon|a}}||Bangunan/rumah yang menyediakan fasilitas praktik dokter gigi||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{dentist:value|Tag:amenity=dentist}}} | dentist]]||[[File:Dentist-16.svg|32px|center]]||[[File:Military dentists in Guatemala.jpg|100px|center]]
+|-
+||6.||Apotek/Toko Obat||{{icon|n}} {{icon|a}}||Toko tempat meramu dan menjual obat berdasarkan resep dokter serta memperdagangkan barang medis||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{pharmacy:value|Tag:amenity=pharmacy}}} | pharmacy]]||[[File:Pharmacy-16.svg|32px|center]]||[[File:COLLECTIE TROPENMUSEUM Het Simpangplein met op een hoek een gebouw met de fotostudio van O. Kurkdjian en Co de Simpang Apotheek en Roemah Obat Soerabaia TMnr 10014826.jpg|100px|center]]
+|}
+
+==Transportasi==
+Objek yang memberikan pelayanan dan fasilitas transportasi seperti transportasi umum bis, kereta, pesawat dan lain-lain. Berikut adalah objek transportasi di Indonesia:
+
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Halte Bus||{{icon|n}} {{icon|a}}||Tempat untuk menunggu bus||[[{{{highway:key|key:highway}}} | highway]]||[[{{{bus_stop:value|Tag:highway=bus_stop}}} | bus_stop]]||[[File:Bus stop.12.svg|32px|center]]||[[File:800px-Halte bus lippocikarang.jpg|100px|center]]
+|-
+||2.||Terminal Bus||{{icon|n}} {{icon|a}}||Tempat untuk pemberhentian bus dan juga bisa sebagai tempat bus berkumpul||[[{{{amenity:key|key:amenity}}} | amenity]]||[[{{{bus_station:value|Tag:amenity=bus_station}}} | bus_station]]||[[File:Bus station.n.16.png|16px|center]]||[[File:450px-Giwangan.jpg|100px|center]]
+|-
+||3.||Stasiun Kereta||{{icon|n}} {{icon|a}}||Tempat naik dan pemberhentian kereta api||[[{{{public_transport:key|key:public_transport}}} | public_transport]]||[[{{{station:value|Tag:public_transport=station}}} | station]]||||[[File:800px-Stasiun Tugu.JPG|100px|center]]
+|-
+||4.||Pelabuhan||{{icon|n}} {{icon|a}}||Tempat naik dan pemberhentian kapal||[[{{{building:key|key:amenity}}} | amenity]]||[[{{{ferry_terminal:value|Tag:amenity=ferry_terminal}}} | ferry_terminal]]||||[[File:Pelabuhan pammatata selayar.jpg|100px|center]]
+|-
+||5.||Bandar Udara||{{icon|n}} {{icon|a}}||Tempat naik dan pemberhentian pesawat||[[{{{aeroway:key|key:aeroway}}} | aeroway]]||[[{{{aerodrome:value|Tag:aeroway=aerodrome}}} | aerodrome]]||[[File:Aerodrome.svg|32px|center]]||[[File:Kuala-Namu.jpg|100px|center]]
+|-
+||6.||Lampu Lalu Lintas||{{icon|n}}||Lampu yang mengatur laju kendaraan di jalan raya||[[{{{highway:key|key:highway}}} | highway]]||[[{{{traffic_signals:value|Tag:highway=traffic_signals}}} | traffic_signals]]||[[File:Rendering-traffic singals.jpg|center]]||[[File:Traffic lights.jpg|100px|center]]
+|-
+||7.||Pangkalan Ojek/Becak||{{icon|n}} {{icon|a}}||Lokasi / Tempat yang digunakan sebagai tempat berkumpulnya ojek/ becak
+||
+* [[{{{amenity:key|key:amenity}}} | amenity]]
+* [[{{{shelter_type:key|key:shelter_type}}} | shelter_type]]
+||
+* [[{{{shelter:value|Tag:amenity=shelter}}} | shelter]]
+* public_transportation
+||[[File:Shelter2.p.16.png|center]]||[[File:Pangkalan ojek.jpg|100px|center]]
+|-
+||8.||Tempat Parkir||{{icon|n}} {{icon|a}}||Tempat untuk memarkir kendaraan.
+||
+* [[{{{amenity:key|key:amenity}}} | amenity]]
+||
+* [[{{{bicycle_parking:value|Tag:amenity=bicycle_parking}}} | bicycle_parking (Untuk Parkir Sepeda)]]
+* [[{{{motorcycle_parking:value|Tag:amenity=motorcycle_parking}}} | motorcycle_parking (Untuk Parkir Motor)]]
+* [[{{{parking:value|Tag:amenity=parking}}} | parking (Untuk Parkir Mobil)]]
+||
+* [[File:Parking-bicycle-16.svg|32px|center]]
+* [[File:Parking-motorcycle-16.svg|32px|center]]
+* [[File:Parking-16.svg|32px|center]]
+||[[File:Multi-storey car park in a Housing and Development Board estate, Singapore - 20060315.jpg|100px|center]]
+|-
+||9.||Bengkel / Tambal Ban||{{icon|n}} {{icon|a}}|| Tempat memperbaiki kendaraan baik itu roda dua ataupun roda empat/lebih
+||[[{{{shop:key|key:shop}}} |shop]]
+||[[{{{car_repair:value|Tag:shop=car_repair}}} | car_repair]]
+||[[File:Repair-car-16.svg|32px|center]]
+||[[|100px|center]]
+|-
+||10.||Tempat Cuci Kendaraan||{{icon|n}} {{icon|a}}||Tempat pencucian kendaraan baik mobil ataupun motor
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{car_wash:value|Tag:amenity=car_wash}}} | car_wash]]
+||[[File:Car_wash-14.svg|28px|center]]
+||[[File:Cuci Mobil.jpg|100px|center]]
+|-
+||11.||Pom Bensin||{{icon|n}} {{icon|a}}|| Tempat yang menyediakan layanan pengisian bensin
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{fuel:value|Tag:amenity=fuel}}} |fuel]]
+||[[File:Fuel-16.svg|32px|center]]
+||[[File:Pertamina filling station, Bali, Indonesia.jpg|100px|center]]
+|-
+|-
+||12.||Toko Mobil||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual mobil serta aksesoris mobil
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{car:value|Tag:shop=car}}} | car]]
+||[[File:Purple-car.svg|32px|center]]
+||[[File:A Toyota Showroom at Dhaka,2014.jpg|100px|center]]
+|-
+||13.||Toko Motor||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual motor serta aksesoris motor
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{motorcycle:value|Tag:shop=motorcycle}}} | motorcycle]]
+||[[File:Shop_motorcycle.svg|32px|center]]
+||[[|100px|center]]
+|-
+||14.||Toko Sepeda||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual sepeda serta aksesoris sepeda
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{bicycle:value|Tag:shop=bicycle}}} | bicycle]]
+||[[File:Bicycle-16.svg|32px|center]]
+||[[|100px|center]]
+|}
+
+==Tempat Ibadah==
+Objek yang digunakan untuk melakukan peribadatan ataupun kegiatan yang berkaitan dengan agama dan keyakinan masyarakat. Berikut objek yang termasuk tempat beribadah di Indonesia:
+
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Masjid / Mushala||{{icon|n}} {{icon|a}}||Tempat untuk melakukan kegiatan peribadatan untuk umat muslim
+||
+* [[{{{amenity:key|key:amenity}}} | amenity]]
+* [[{{{religion:key|key:religion}}} | religion]]
+||
+* [[{{{place_of_worship:value|Tag:amenity=place_of_worship}}} | place_of_worship]]
+* [[{{{muslim:value|Tag:religion=muslim}}} | muslim]]
+||[[Image:Muslim-16.svg|16px|center]]||[[File:Mosque-al-markaz-al-islami-makassar-indonesia-6.jpg|100px|center]]
+|-
+||2.||Gereja / Capel||{{icon|n}} {{icon|a}}||Tempat untuk melakukan kegiatan peribadatan untuk umat kristiani
+||
+* [[{{{amenity:key|key:amenity}}} | amenity]]
+* [[{{{religion:key|key:religion}}} | religion]]
+||
+* [[{{{place_of_worship:value|Tag:amenity=place_of_worship}}} | place_of_worship]]
+* [[{{{christian:value|Tag:religion=christian}}} | christian]]
+||[[Image:Christian-16.svg|16px|center]]||[[File:Gereja.png|100px|center]]
+|-
+||3.||Pura||{{icon|n}} {{icon|a}}||Tempat untuk melakukan kegiatan peribadatan untuk umat hindu
+||
+* [[{{{amenity:key|key:amenity}}} | amenity]]
+* [[{{{religion:key|key:religion}}} | religion]]
+||
+* [[{{{place_of_worship:value|Tag:amenity=place_of_worship}}} | place_of_worship]]
+* [[{{{hindu:value|Tag:religion=hindu}}} | hindu]]
+||[[Image:Hinduist-16.svg|16px|center]]||[[File:Pura Bratan Bali.jpg|100px|center]]
+|-
+||4.||Vihara||{{icon|n}} {{icon|a}}||Tempat untuk melakukan kegiatan peribadatan untuk umat budha
+||
+* [[{{{amenity:key|key:amenity}}} | amenity]]
+* [[{{{religion:key|key:religion}}} | religion]]
+||
+* [[{{{place_of_worship:value|Tag:amenity=place_of_worship}}} | place_of_worship]]
+* [[{{{buddhist:value|Tag:religion=buddhist}}} | buddhist]]
+||[[Image:Buddhist-16.svg|16px|center]]||[[File:Vihara Duta Prabha Banjarmasin.JPG|100px|center]]
+|-
+||5.||Klenteng||{{icon|n}} {{icon|a}}||Tempat untuk melakukan kegiatan peribadatan untuk umat khonghucu
+|| [[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{place_of_worship:value|Tag:amenity=place_of_worship}}} | place_of_worship]]
+||[[Image:Place-of-worship-16.svg|16px|center]]||[[File:Klenteng Jin De Yuan, Glodok, Jakarta.jpg|100px|center]]
+|}
+
+==Kantor Pemerintahan==
+Bangunan yang digunakan untuk kegiatan pemerintah baik dalam bentuk pelayanan masyarakat maupun kegiatan pemerintahan yang lain. Berikut beberapa kantor pemerintah yang ada di Indonesia:
+
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Kantor RT||{{icon|n}} {{icon|a}}||Kantor pemerintahan dalam skala level terkecil. RT sendiri merupakan kependekan dari Rukun Tetangga.
+||
+* [[{{{office:key|key:office}}} | office]]
+* [[{{{admin_level:key|key:admin_level}}} | admin_level]]
+||
+* [[{{{government:value|Tag:office=government}}} | government]]
+* [[{{{9:value|Tag:admin_level=9}}} | 9]]
+||
+||
+|-
+||2.||Kantor RW||{{icon|n}} {{icon|a}}||Kantor pemerintahan dengan skala pemerintahan di atas RT. RW sendiri merupakan kependekan dari Rukun Warga
+||
+* [[{{{office:key|key:office}}} | office]]
+* [[{{{admin_level:key|key:admin_level}}} | admin_level]]
+||
+* [[{{{government:value|Tag:office=government}}} | government]]
+* [[{{{8:value|Tag:admin_level=8}}} | 8]]
+||||[[File:Kantor rw.png|100px|center]]
+|-
+||3.||Kantor Desa/Kelurahan||{{icon|n}} {{icon|a}}||Kantor pemerintahan dengan skala pemerintahan di atas RW
+||
+* [[{{{office:key|key:office}}} | office]]
+* [[{{{admin_level:key|key:admin_level}}} | admin_level]]
+||
+* [[{{{government:value|Tag:office=government}}} | government]]
+* [[{{{7:value|Tag:admin_level=7}}} | 7]]
+||||[[File:Kantor-desa-Jenggawah-Jember.jpeg.jpeg|100px|center]]
+|-
+||4.||Kantor Kecamatan||{{icon|n}} {{icon|a}}||Kantor pemerintahan dengan skala pemerintahan di atas Desa/Kelurahan
+||
+* [[{{{office:key|key:office}}} | office]]
+* [[{{{admin_level:key|key:admin_level}}} | admin_level]]
+||
+* [[{{{government:value|Tag:office=government}}} | government]]
+* [[{{{6:value|Tag:admin_level=6}}} | 6]]
+||||[[File:Kantor Kecamatan lasem.jpg|100px|center]]
+|-
+||5.||Kantor Bupati/Walikota||{{icon|n}} {{icon|a}}||Kantor pemerintahan dengan skala pemerintahan di atas Kecamatan. Lingkup wilayahnya kabupaten
+||
+* [[{{{office:key|key:office}}} | office]]
+* [[{{{admin_level:key|key:admin_level}}} | admin_level]]
+||
+* [[{{{government:value|Tag:office=government}}} | government]]
+* [[{{{5:value|Tag:admin_level=5}}} | 5]]
+||||[[File:Kantor Bupati Malang Kepanjen.jpg|100px|center]]
+|-
+||6.||Kantor Gubernur||{{icon|n}} {{icon|a}}||Kantor pemerintahan dengan skala pemerintahan di atas Bupati. Lingkup wilayahnya provinsi
+||
+* [[{{{office:key|key:office}}} | office]]
+* [[{{{admin_level:key|key:admin_level}}} | admin_level]]
+||
+* [[{{{government:value|Tag:office=government}}} | government]]
+* [[{{{4:value|Tag:admin_level=4}}} | 4]]
+||||[[File:800px-Kangubsumbar.jpg|100px|center]]
+|-
+||7.||Departemen/Instansi Pemerintah||{{icon|n}} {{icon|a}}||Bangunan yang memiliki fasilitas pelayanan masyarakat dan terdapat kegiatan pemerintahan di dalamnya.
+||[[{{{office:key|key:office}}} | office]]
+||[[{{{government:value|Tag:office=government}}} | government]]
+||||[[File:Gedung pusat bahasa.JPG|100px|center]]
+|-
+||8.||Kedutaan Besar||{{icon|n}} {{icon|a}}||Tempat kedudukan resmi perwakilan suatu negara di negara lain
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{embassy:value|Tag:amenity=embassy}}} | embassy]]
+||[[File:Embassy-16.svg|32px|center]]||[[File:Australias indonesian embassy.jpg|100px|center]]
+|-
+|}
+
+==Komersial==
+Bangunan yang digunakan untuk kegiatan jual beli terhadap suatu produk/jasa ataupun objek yang didalamnya terdapat aktifitas ekonomi. Berikut beberapa contoh dari objek ekonomi di Indonesia
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Keuangan'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||ATM||{{icon|n}} {{icon|a}}||Tempat yang menyediakan penarikan uang tunai.
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{atm:value|Tag:amenity=atm}}} | atm]]
+||[[File:Atm-16.svg|32px|center]]
+||[[File:Bankomaty na dworcu Poznań Główny 01.JPG|100px|center]]
+|-
+||2.||Bank||{{icon|n}} {{icon|a}}||
+Tempat yang menyediakan jasa di bidang keuangan yang menarik dan mengeluarkan uang dalam masyakarat, terutama memberikan kredit dan jasa dalam lalu lintas pembayaran dan peredaran uang
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{bank:value|Tag:amenity=bank}}} | bank]]
+||[[File:Bank-16.svg|32px|center]]
+||[[File:Bank Indonesia Lama Padang atas.JPG|100px|center]]
+|-
+||3.||Toko Penukaran Uang Asing||{{icon|n}} {{icon|a}}||Tempat yang menyediakan jasa jual beli mata uang asing
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{bureau_de_change:value|Tag:amenity=bureau_de_change}}} | bureau_de_change]]
+||[[File:bureau de change.svg|32px|center]]
+||[[File:Bureau de change.JPG|100px|center]]
+|-
+|}
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Kebutuhan Harian dan Makanan'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Warung/Kios||{{icon|n}} {{icon|a}}||Toko kecil. Tempat berjualan rokok, permen dan berbagai macam kebutuhan yang lain
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{kiosk:value|Tag:shop=kiosk}}} | kiosk]]
+||[[File:Newsagent-14.svg|28px|center]]
+||[[File:Warung in Garut.JPG|100px|center]]
+|-
+||2.||Minimarket||{{icon|n}} {{icon|a}}||Tempat yang menjual barang-barang kebutuhan sehari-hari. Biasanya lebih lengkap dari warung, akan tetapi lebih kecil dari supermarket.
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{convenience:value|Tag:shop=convenience}}} | convenience]]
+||[[File:Convenience-14.svg|32px|center]]
+||[[File:Circle K Japan.jpg|100px|center]]
+|-
+||3.||Supermarket||{{icon|n}} {{icon|a}}||Bangunan yang menjual barang-barang keperluan masyarakat. Berada di ruangan tertutup dan biasanya memiliki pendingin ruangan di dalamnya.
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{supermarket:value|Tag:shop=supermarket}}} | supermarket]]
+||[[File:Supermarket-14.svg|32px|center]]
+||[[File:Carrefour at Faa'a French Polynesia.JPG|100px|center]]
+|-
+||4.||Mall||{{icon|n}} {{icon|a}}||Bangunan yang berfungsi sebagai pusat perbelanjaan yang secara arsitektur berupa bangunan tertutup dan memiliki jalur untuk berjalan jalan yang teratur sehingga berada di antara antar toko-toko kecil yang saling berhadapan
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{mall:value|Tag:shop=mall}}} | mall]]
+||[[File:Shop-other-16.svg|32px|center]]
+||[[File:48mall of indonesia.jpg|100px|center]]
+|-
+||5.||Pasar||{{icon|n}} {{icon|a}}||Tempat orang melakukan kegiatan jual beli. Barang yang dijual bermacam-macam
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{marketplace:value|Tag:amenity=marketplace}}} | marketplace]]
+||
+||[[File:Wet market in Singapore 2.jpg|100px|center]]
+|-
+||6.||Pasar Ikan||{{icon|n}} {{icon|a}}||Tempat penjualan ikan dan makanan laut lainnya
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{seafood:value|Tag:shop=seafood}}} | seafood]]
+||[[File:Seafood-14.svg|28px|center]]
+||[[File:Vendor at Margao Fish Market.jpg|100px|center]]
+|-
+||7.||Toko Kue dan Roti||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual kue dan roti.
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{bakery:value|Tag:shop=bakery}}} | bakery]]
+||[[File:Bakery-16.svg|32px|center]]
+||[[File:Kue basah Yogyakarta.jpg|100px|center]]
+|-
+||8.||Toko Buah||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual buah-buahan
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{greengrocer:value|Tag:shop=greengrocer}}} | greengrocer]]
+||[[File:Greengrocer-14.svg|32px|center]]
+||[[File:Fruteria de la Esquina.jpg|100px|center]]
+|-
+|}
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Akomodasi'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Hotel||{{icon|n}} {{icon|a}}|| Bangunan berkamar banyak yang disewakan sebagai tempat untuk menginap dan tempat makan orang yang sedang dalam perjalanan
+||[[{{{tourism:key|key:tourism}}} | tourism]]
+||[[{{{hotel:value|Tag:tourism=hotel}}} |hotel]]
+||[[File:Hotel-16.svg|32px|center]]
+||[[File:Swiss-Belhotel Borneo Samarinda.jpg|100px|center]]
+|-
+||2.||Wisma / Motel||{{icon|n}} {{icon|a}}||Bangunan yang ditujukan untuk penginapan untuk orang yang sedang berpergian. Lebih kecil dan biasanya menawarkan harga lebih murah dari hotel
+||[[{{{tourism:key|key:tourism}}} | tourism]]
+||[[{{{guest_house:value|Tag:tourism=guest_house}}} |guest_house]]
+||[[File:Guest house.p.16.png|center]]
+||[[File:Bjerka Motel B.JPG|100px|center]]
+|}
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Makanan dan Minuman'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Rumah Makan||{{icon|n}} {{icon|a}}||Bangunan yang menyediakan makanan. Dalam kehidupan sehari-hari, objek rumah makan dapat pula berupa restoran, rumah makan padang, warung nasi rames, warteg
+/* Catatan: objek ini harus bangunan permanen
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{restaurant:value|Tag:amenity=restaurant}}} | restaurant]]
+||[[File:Restaurant-16.svg|32px|center]]
+||[[File:Bundo Sati Padang Restaurant Mataram Lombok.JPG|100px|center]]
+|-
+||2.||Kafe||{{icon|n}} {{icon|a}}|| Tempat minum yang pengunjungnya dapat memesan minuman, seperti kopi, teh, bir, dan kue-kue
+||[[{{{amenity:key|key:amenity}}} |amenity]]
+||[[{{{cafe:value|Tag:amenity=cafe}}} | cafe]]
+||[[File:Cafe-16.svg|32px|center]]
+||[[File:L'annexe, 5 Boulevard du Palais, 75004 Paris, July 2010.jpg|100px|center]]
+|-
+||3.||Restaurant Cepat Saji (''Fast Food'')||{{icon|n}} {{icon|a}}||Rumah makan yang menyajikan makanan cepat saj
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{fast_food:value|Tag:amenity=fast_food}}}|fast_food]]
+||[[File:Fast-food-16.svg|32px|center]]
+||[[File:KFC Cihampelas Walk.JPG|100px|center]]
+|-
+|}
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Kecantikan dan Perawatan Tubuh'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Salon / Tukang Cukur||{{icon|n}} {{icon|a}}||Tempat yang menyediakan jasa untuk memotong rambut dan perawatan lainnya seperti manicure, padicure, dll
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{hairdresser:value|Tag:shop=hairdresser}}}|hairdresser]]
+||[[File:Hairdresser-16.svg|32px|center]]
+||[[File:Salon interior.jpg|100px|center]]
+|-
+||2.||Toko Parfum||{{icon|n}} {{icon|a}}|| Tempat / bangunan yang menjual berbagai macam parfum
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{perfumery:value|Tag:shop=perfumery}}} |perfumery]]
+||[[File:Perfumery-14.svg|32px|center]]
+||[[File:301 perfumery and drugstore in Cala Millor.jpg|100px|center]]
+|-
+|}
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Pakaian dan Aksesoris'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Optik||{{icon|n}} {{icon|a}}|| Tempat / bangunan yang menjual kacamata dan perawatan untuk mata
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{optician:value|Tag:shop=optician}}} |optician]]
+||[[File:Optician-16.svg|32px|center]]
+||[[File:Phipps Opticians - Queen Street - geograph.org.uk - 1768661.jpg|100px|center]]
+|-
+||2.||Toko Pakaian||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual pakaian (baju, celana, dll)
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{clothes:value|Tag:shop=clothes}}} | clothes]]
+||[[File:Clothes-16.svg|32px|center]]
+||[[File:Deerberg Boutique.jpg|100px|center]]
+|-
+||3.||Toko Sepatu||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual sepatu dan alas kaki
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{shoes:value|Tag:shop=shoes}}} | shoes]]
+||[[File:Shoes-16.svg|32px|center]]
+||[[File:Shoe shop in China 03.jpg|100px|center]]
+|-
+||4.||Toko Cuci Pakaian (''Laundry'')||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menyediakan fasilitas untuk mencuci pakaian.
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{laundry:value|Tag:shop=laundry}}} |laundry]]
+||[[File:Laundry-14.svg|32px|center]]
+||[[File:Polarstern laundry hg.jpg|100px|center]]
+|-
+||5.||Toko Perhiasan||{{icon|n}} {{icon|a}}|| Tempat / bangunan yang menjual berbagai macam perhiasan
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{jewelry:value|Tag:shop=jewelry}}} |jewelry]]
+||[[File:Jewellery-16.svg|32px|center]]
+||[[File:Emphasis store in Pacific Place.jpg|100px|center]]
+|-
+||6.||Tukang Jahit||{{icon|n}} {{icon|a}}||Tempat dimana baju/pakaian itu dibuat ataupun diperbaiki
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{tailor:value|Tag:shop=tailor}}} | tailor]]
+||
+||
+|-
+|}
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Buku dan Alat Tulis'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Toko Buku||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual buku.
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{books:value|Tag:shop=books}}} | books]]
+||[[File:Books-16.svg|32px|center]]
+||[[File:City Lights Bookstore.jpg|100px|center]]
+|-
+||2.||Toko Alat Tulis||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual berbagai macam alat tulis dan peralatan kantor
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{stationery:value|Tag:shop=stationery}}} |stationery]]
+||[[File:Stationery-14.svg|32px|center]]
+||[[File:Comercial Li.JPG|100px|center]]
+|-
+||3.||Toko Fotokopi||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual perlengkapan alat tulis dan jasa fotokopi
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{copyshop:value|Tag:shop=copyshop}}} | copyshop]]
+||[[File:Copyshop-14.svg|32px|center]]
+||
+|-
+|}
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Elektronik'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Toko Elektronik||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual perlengkapan dan peralatan elektronik
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{electronics:value|Tag:shop=electronics}}} | electronics]]
+||[[File:Electronics-16.svg|32px|center]]
+||
+|-
+||2.||Toko Komputer||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual peralatan komputer
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{computer:value|Tag:shop=computer}}} | computer]]
+||[[File:Computer-14.svg|32px|center]]
+||
+|-
+||3.||Toko Handphone||{{icon|n}} {{icon|a}}|| Tempat / bangunan yang menjual handphone atapun dan aksesoris handphone
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{mobile_phone:value|Tag:shop=mobile_phone}}} |mobile_phone]]
+||[[File:Mobile-phone-16.svg|32px|center]]
+||[[File:Mobile phone shop Takoradi 2011.jpg|100px|center]]
+|-
+|}
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Hobi'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Toko Olahraga||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual perlengkapan olahraga
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{sports:value|Tag:shop=sports}}} | sports]]
+||[[File:Shop-other-16.svg|32px|center]]
+||[[File:Sports Authority in Concord.JPG|100px|center]]
+|-
+||2.||Toko Perlengkapan ''Outdoor''||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual perlengkapan kegiatan ''outdoor''
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{outdoor:value|Tag:shop=outdoor}}} | outdoor]]
+||[[File:Outdoor-14.svg|28px|center]]
+||[[File:Jack Wolfskin, Boar Lane, Leeds (30th March 2013).JPG|100px|center]]
+|-
+||3.||Toko Hewan Peliharaan||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual perlengkapan hewan
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{pet:value|Tag:shop=pet}}} | pet]]
+||[[File:Pet-16.svg|32px|center]]
+||[[File:Pets Place Nijmegen.JPG|100px|center]]
+|-
+||4.||Toko Alat Jahit / Kerajinan Tangan||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual perlengkapan jahit dan hasil kerajinan tangan
+||[[{{{craft:key|key:craft}}} | craft]]
+||[[{{{handicraft:value|Tag:craft=handicraft}}} | handicraft]]
+||
+||[[File:Transaksi kerajinan bambu.jpg|100px|center]]
+|-
+||5.||Toko Tanaman||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual tanaman-tanaman hias
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{garden_centre:value|Tag:shop=garden_centre}}} | garden_centre]]
+||[[File:Shop-other-16.svg|32px|center]]
+||[[File:Almondsbury.garden.centre.arp.jpg|100px|center]]
+|-
+||6.||Toko Bunga||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual bunga
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{florist:value|Tag:shop=florist}}} | florist]]
+||[[File:Florist-16.svg|32px|center]]
+||[[File:Floriculture.jpg|100px|center]]
+|-
+||7.||Toko Musik||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual berbagai macam alat dan peralatan musik
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{musical_instrument:value|Tag:shop=musical_instrument}}} |musical_instrument]]
+||[[File:Musical instrument-14.svg|28px|centerr]]
+||[[File:Zemaitis Music Store, show case, Ochanomizu Gakki Center, Tokyo.jpg|100px|center]]
+|-
+||8.||Toko Perjalanan (''Travel Agency'')||{{icon|n}} {{icon|a}}|| Tempat / bangunan yang meyediakan fasilitas perjalanan dan liburan serta tiket transportasi baik itu pesawat, kereta, bis dan kapal laut.
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{travel_agency:value|Tag:shop=travel_agency}}} |travel_agency]]
+||[[File:Travel agency-14.svg|32px|center]]
+||[[File:Somewhere 2 Travel 2, No. 3 Church Street, Ilfracombe. - geograph.org.uk - 1270382.jpg|100px|center]]
+|-
+||9.||Studio Foto||{{icon|n}} {{icon|a}}|| Tempat / bangunan untuk mencentak foto dan menyediakan fasilitas foto studio
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{photo:value|Tag:shop=photo}}} |photo]]
+||[[File:Photo-14.svg|32px|center]]
+||[[File:Fujifilm photo shop.jpg|100px|center]]
+|-
+|}
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Rumah Tangga'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Toko Furnitur||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual barang-barang mebel
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{furniture:value|Tag:shop=furniture}}} | furniture]]
+||[[File:Furniture-16.svg|32px|center]]
+||[[File:Ikea Groningen.jpg|100px|center]]
+|-
+||2.||Toko Bahan Bangunan||{{icon|n}} {{icon|a}}|| Tempat / bangunan yang menjual berbagai macam bahan bangunan seperti pipa, palu, genteng, batako, dan lain-lain
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{hardware:value|Tag:shop=hardware}}} |hardware]]
+||[[File:Doityourself-16.svg|32px|center]]
+||[[File:Tweedy and Popp 03.jpg|100px|center]]
+|-
+|}
+
+{| class=&quot;wikitable&quot;
+|+
+==='''Objek Komersil Lainnya'''===
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Toko Oleh-Oleh||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual berbagai souvenir dan buah tangan dengan berbagai macam bentuk dan jenis.
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{gift:value|Tag:shop=gift}}} |gift]]
+||[[File:Gift-16.svg|32px|center]]
+||[[File:Saigon Central Post Office Souvenir Shop.jpg|100px|center]]
+|-
+||2.||Toko Mainan Anak-anak||{{icon|n}} {{icon|a}}||Tempat / bangunan yang menjual berbagai souvenir dan buah tangan dengan berbagai macam bentuk dan jenis.
+||[[{{{shop:key|key:shop}}} | shop]]
+||[[{{{toys:value|Tag:shop=toys}}} |toys]]
+||[[File:Toys-14.svg|32px|center]]
+||[[File:HK Toys R Us.JPG|100px|center]]
+|-
+|}
+
+==Rekreasi dan Olahraga==
+Objek yang menyediakan hiburan dan juga fasilitas rekreasi untuk masyarakat baik itu yang berbayar ataupun gratis. Contoh dari objek rekreasi seperti bioskop, kebun binatang dan lain-lain. Berikut adalah daftar lengkap dari objek rekreasi dan hiburan di Indonesia:
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Warnet||{{icon|n}} {{icon|a}}|| Tempat menyediakan layanan untuk fasilitas internet dan video game. Biasanya disewa perjam. Terbuka untuk umum
+||[[{{{leisure:key|key:leisure}}} | leisure]]
+||[[{{{amusement_arcade:value|Tag:leisure=amusement_arcade}}} | amusement_arcade]]
+||
+||[[File:Wank Internet cafe in Bali (3753672231).jpg|100px|center]]
+|-
+||2.||Bioskop||{{icon|n}} {{icon|a}}|| Tempat untuk menonton film. Biasanya film yang ditayangkan merupakan film terbaru.
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{cinema:value|Tag:amenity=cinema}}} | cinema]]
+||[[File:Cinema-16.svg|32px|center]]
+||[[File:Metropole Night.JPG|100px|center]]
+|-
+||3.||Kebun Binatang||{{icon|n}} {{icon|a}}||Tempat memelihara berbagai binatang untuk perlindungan, pembiakan penelitian dan sebagai tempat rekreasi
+||[[{{{tourism:key|key:tourism}}} | tourism]]
+||[[{{{zoo:value|Tag:tourism=zoo}}} | zoo]]
+||
+||[[File:Ragunan Zoo Gate.jpg|100px|center]]
+|-
+||4.||Museum||{{icon|n}} {{icon|a}}||Bedung yang digunakan sebagai tempat untuk pameran tetap benda-benda bersejarah, seperti peninggalan sejarah, seni, dan ilmu.
+||[[{{{tourism:key|key:tourism}}} | tourism]]
+||[[{{{museum:value|Tag:tourism=museum}}} | museum]]
+||[[File:Museum-16.svg|32px|center]]
+||[[File:Museum Nasional Indonesia.jpg|100px|center]]
+|-
+||5.||Gedung Kesenian||{{icon|n}} {{icon|a}}||Bangunan yang menyelenggarakan kegiatan kesenian
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{arts_centre:value|Tag:amenity=arts_centre}}} | arts_centre]]
+||[[File:Palette.gif|50px|center]]
+||[[File:Gedung Kesenian Jakarta.JPG|100px|center]]
+|-
+||6.||Pemancingan||{{icon|n}} {{icon|a}}||Tempat untuk melakukan kegiatan memancing
+||[[{{{leisure:key|key:leisure}}} | leisure]]
+||[[{{{fishing:value|Tag:leisure=fishing}}} | fishing]]
+||
+||[[File:20131205 Istanbul 179.jpg|100px|center]]
+|-
+||7.||Kolam Renang / Taman Air||{{icon|n}} {{icon|a}}||Tempat untuk berenang dan melakukan kegiatan wisata air
+||[[{{{leisure:key|key:leisure}}} | leisure]]
+||
+*[[{{{swimming_pool:value|Tag:leisure=swimming_pool}}} | swimming_pool (untuk kolam renang)]]
+*[[{{{water_park:value|Tag:leisure=water_park}}} | water_park] (untuk taman air)]]
+||[[File:Swimming-16.svg|32px|center]]
+||[[File:Munsu Water Park (11265329474).jpg|100px|center]]
+|-
+||8.||Taman||{{icon|n}} {{icon|a}}||Tempat yang ditanami dengan bunga-bunga dan sebagainya (tempat bersenang-senang)
+||[[{{{leisure:key|key:leisure}}} | leisure]]
+||[[{{{park:value|Tag:leisure=park}}} | park]]
+||[[File:Rendering-area-leisure-park.png|100px|center]]
+||[[File:Taman.png|100px|center]]
+|-
+||9.||Taman Bermain||{{icon|n}} {{icon|a}}||Tempat / area bermain untuk anak-anak
+||[[{{{leisure:key|key:leisure}}} | leisure]]
+||[[{{{playground:value|Tag:leisure=playground}}} | playground]]
+||[[File:Rendering-leisure-playground.png|center]]
+||[[File:Taman bermain.png|100px|center]]
+|-
+||10.||Gedung Teater||{{icon|n}} {{icon|a}}||Tempat / Gedung yang digunakan untuk melakukan pementasan teater.
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{theatre:value|Tag:amenity=theatre}}} | theatre]]
+||[[File:Theatre-16.svg|32px|center]]
+||[[File:Teater Jakarta Taman Ismail Marzuki.JPG|100px|center]]
+|-
+||11.||Tempat Karaoke/Diskotik||{{icon|n}} {{icon|a}}||Tempat / Gedung yang digunakan untuk pertunjukan musik atau menyanyi. Biasanya untuk bernyanyi dan berdansa
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{nightclub:value|Tag:amenity=nightclub}}} | nightclub]]
+||[[File:Nightclub-16.svg|32px|center]]
+||[[File:Cafe in Tokyo night club alife.jpg|100px|center]]
+|-
+||12.||Stadion||{{icon|a}}|| Bangunan untuk kegiatan olahraga yang dikelilingi tempat duduk
+||[[{{{leisure:key|key:leisure}}} | leisure]]
+||[[{{{stadium:value|Tag:leisure=stadium}}} | stadium]]
+||[[File:Rendering-area-leisure-sports centre.png|100px|center]]
+||[[File:Stadion Agus Salim.jpg|100px|center]]
+|-
+||13.||Pusat Kegiatan Olahraga||{{icon|n}} {{icon|a}}|| Tempat dimana kegiatan berbagai macam olahraga dilaksanakan
+||[[{{{leisure:key|key:leisure}}} | leisure]]
+||[[{{{sports_centre:value|Tag:leisure=sports_centre}}} | sports_centre]]
+||[[File:Rendering-area-leisure-sports centre.png|100px|center]]
+||[[File:Jakabaring Aquatic Center, SEA Games 2011 Palembang 1.jpg|100px|center]]
+|-
+||14.||Lapangan Olahraga||{{icon|n}} {{icon|a}}||Lapangan / Tanah yang digunakan untuk kegiatan olahraga.
+||[[{{{leisure:key|key:leisure}}} | leisure]]
+||[[{{{pitch:value|Tag:leisure=pitch}}} | pitch]]
+||[[File:Rendering-area-leisure-sports centre.png|100px|center]]
+||[[File:Bogor Agricultural University Sports Field.jpg|100px|center]]
+|}
+
+==Fasilitas Publik==
+Objek yang menyediakan fasilitas ataupun layanan untuk kegiatan masyarakat. Beberapa contohnya seperti toilet umum, gedung pertemuan, perpustakaan dan lain-lain. Berikut adalah daftar fasilitas publik di Indonesia:
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||WC / Toilet Umum||{{icon|n}} {{icon|a}}|| Bangunan yang menyediakan fasilitas toilet untuk publik. (Biasanya berlokasi di tempat-tempat umum)
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{toilets:value|Tag:amenity=toilets}}} | toilets]]
+||[[File:Toilets-16.svg|32px|center]]
+||[[File:Sanisette.jpg|100px|center]]
+|-
+||2.||Wisma / Gedung Pertemuan||{{icon|n}} {{icon|a}}|| Bangunan yang biasanya digunakan untuk pertemuan atau acara besar
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{townhall:value|Tag:amenity=townhall}}} |townhall]]
+||[[File:Town-hall-16.svg|32px|center]]
+||[[File:Universidad Indonesia Wisma Makara.JPG|100px|center]]
+|-
+||3.||Perpustakaan||{{icon|n}} {{icon|a}}|| Tempat yang menyediakan fasilitas penyewaan dan membaca
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{library:value|Tag:amenity=library}}} |library]]
+||[[File:Library.p.20.png|center]]
+||[[File:Perpustakaan upnjatim.jpg|100px|center]]
+|-
+||4.||Pengadilan||{{icon|n}} {{icon|a}}||Bangunan tempat mengadili suatu perkara yang berkaitan dengan hukum
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{courthouse:value|Tag:amenity=courthouse}}}|courthouse]]
+||[[File:Courthouse-16.svg|32px|center]]
+||[[File:PN Sumber (1).JPG|100px|center]]
+|-
+||5.||Kantor Pos||{{icon|n}} {{icon|a}}||Kantor yang mengurus kegiatan pengiriman surat, paket, dan sebagainya yang berhubungan dengan pos
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{post_office:value|Tag:amenity=post_office}}}|post_office]]
+||[[File:Post_office-14.svg|32px|center]]
+||[[File:Kantor Pos.jpg|100px|center]]
+|-
+||6.||Lembaga Pemasyarakatan||{{icon|n}} {{icon|a}}||Bangunan tempat mengurung orang yang menjalani masa hukuman dari pengadilan
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{prison:value|Tag:amenity=prison}}}|prison]]
+||[[File:Prison-16.svg|32px|center]]
+||[[File:Xatta137.jpg|100px|center]]
+|-
+||7.||Aula / Balai Pertemuan||{{icon|a}}||Bangunan tempat mengurung orang yang menjalani masa hukuman dari pengadilan
+||[[{{{building:key|key:building}}} | building]]
+||[[{{{public:value|Tag:building=public}}}|public]]
+||
+||[[File:Vencovskeho aula.JPG|100px|center]]
+|-
+||8.||Rumah Panti/Rumah Sosial||{{icon|n}} {{icon|a}}||Tempat untuk memelihara anak yatim ataupun orang tua yang tidak memiliki tempat untuk tinggal dan tidak bisa  hidup secara mandiri
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{social_facility:value|Tag:amenity=social_facility}}}|social_facility]]
+||
+||[[File:Anak anak panti asuhan mamre.jpg|100px|center]]
+|-
+||9.||Kantor Polisi||{{icon|n}}  {{icon|a}}||Bangunan yang digunakan oleh aparat kepolisian untuk bekerja
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{police:value|Tag:amenity=police}}}|police]]
+||[[File:Police-16.svg|32px|center]]
+||[[File:Polsek Majalengka.jpg|100px|center]]
+|-
+||10.||Kantor Pemadam Kebakaran|||{{icon|n}} {{icon|a}}||Bangunan tempat petugas pemadam kebakaran bekerja
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{fire_station:value|Tag:amenity=fire_station}}}|fire_station]]
+||[[File:Fire-station-16.svg|32px|center]]
+||[[File:Pemadam kebakaran Sampit.JPG|100px|center]]
+|-
+|}
+
+==Industri==
+Objek yang menyediakan hiburan dan juga fasilitas rekreasi untuk masyarakat baik itu yang berbayar ataupun gratis. Contoh dari objek rekreasi seperti bioskop, kebun binatang dan lain-lain. Berikut adalah daftar lengkap dari objek rekreasi dan hiburan di Indonesia:
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Gudang||{{icon|a}}||Bangunan yang biasanya digunakan untuk menyimpan barang produksi. Biasanya dalam jumlah yang besar
+||[[{{{building:key|key:building}}} | building]]
+||[[{{{warehouse:value|Tag:building=warehouse}}} | warehouse]]
+||
+||[[File:Automatisches Kleinteilelager.jpg|100px|center]]
+|-
+||2.||Pabrik||{{icon|n}} {{icon|a}}||Tempat pembuatan suatu produk / barang. Biasanya dibuat dalam produksi besar/banyak
+||[[{{{man_made:key|key:man_made}}} | man_made]]
+||[[{{{works:value|Tag:man_made=works}}} | works]]
+||
+||[[File:ShellMartinez-refi.jpg|100px|center]]
+|-
+||3.||Pembangkit Listrik||{{icon|n}} {{icon|a}}||Objek yang berfungsi menghasilkan tenaga listrik untuk kegiatan industri.
+||[[{{{power:key|key:power}}} | power]]
+||[[{{{plant:value|Tag:power=plant}}} | plant]]
+||
+||[[File:PLTD Loa Raya Kutai Kartanegara.jpg|100px|center]]
+|-
+|}
+
+==Rumah==
+Bangunan yang digunakan sebagai tempat tinggal/bermukim.
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Rumah||{{icon|a}}||Bangunan yang digunakan sebagai tempat tinggal/bermukim
+||[[{{{building:key|key:building}}} | building]]
+||[[{{{residential:value|Tag:building=residential}}} |residential]]
+||
+||[[File:Menes sta 151230-0600 lsg.JPG|100px|center]]
+|-
+|}
+
+==Bangunan Lain==
+Objek lain yang terdapat di Indonesia dan seringkali butuh untuk dipetakan.
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Bangunan Belum Terklasifikasi||{{icon|a}}||Bangunan yang belum memiliki klasifikasi yang jelas.
+||[[{{{building:key|key:building}}} | building]]
+||[[{{{yes:value|Tag:building=yes}}} |yes]]
+||
+||[[File:Bangunan di lokasi Goa Gajah.jpg|100px|center]]
+|-
+||2.||Kandang Hewan||{{icon|n}} {{icon|a}}||Tempat / Bangunan untuk hewan peliharaan. Biasanya ditaruh di sekitar rumah
+||[[{{{amenity:key|key:amenity}}} | amenity]]
+||[[{{{animal_boarding:value|Tag:amenity=animal_boarding}}} |animal_boarding]]
+||[[File:Dog boarding icon.png|30px|center]]
+||[[File:Kandang sapi susu percontohan.jpeg|100px|center]]
+|-
+||3.||Gardu Listrik||{{icon|n}} {{icon|a}}||Objek untuk mendistribusikan listrik lokal ke beberapa area tertentu.
+||[[{{{power:key|key:power}}} | power]]
+||[[{{{substation:value|Tag:power=substation}}} |substation]]
+||
+||[[File:Daventry, entrance to substation - geograph.org.uk - 1751032.jpg|100px|center]]
+|-
+||4.||Tower/Tiang Listrik||{{icon|n}}||Tiang yang berfungsi untuk menghantarkan aliran listrik
+||[[{{{power:key|key:power}}} |power]]
+||[[{{{tower:value|Tag:power=tower}}} | tower]]
+||[[File:Power-tower mapnik.png|20px|center]]
+||[[File:Electricity Pylon-Tower at Norden Bridge - geograph.org.uk - 1601275.jpg|100px|center]]
+|-
+||5.||Tower Komunikasi||{{icon|n}}||Tiang yang berfungsi untuk menghantarkan sinyal telekomunikasi
+||[[{{{man_made:key|key:man_made}}} |man_made]]
+||[[{{{communications_tower:value|Tag:man_made=communications_tower}}} | communications_tower]]
+||
+||[[File:Communication Tower - Nishapur.JPG|100px|center]]
+|-
+||6.||Tower/Menara Air||{{icon|n}}||Tempat untuk menampung air yang berbentuk menara tinggi dan biasanya digunakan untuk menampung air hujan.
+||[[{{{man_made:key|key:man_made}}} |man_made]]
+||[[{{{water_tower:value|Tag:man_made=water_tower}}} | water_tower]]
+||[[File:Water-tower-16.svg|32px|center]]
+||[[File:Yosowilangun sta 130807-2521 lmj.JPG|100px|center]]
+|-
+||7.||Bak Penampungan Air||{{icon|n}} {{icon|a}}||Tempat untuk menampung air yang berada di dekat permukiman warga.
+||[[{{{man_made:key|key:man_made}}} |man_made]]
+||[[{{{reservoir_covered:value|Tag:man_made=reservoir_covered}}} | reservoir_covered]]
+||
+||[[|100px|center]]
+|-
+||8.||Sumur||{{icon|n}}||Lubang besar yang berfungsi untuk mengambil air tanah. Biasanya ditambahkan dengan tembok bata di sekeliling lubang tersebut
+||[[{{{man_made:key|key:man_made}}} |man_made]]
+||[[{{{water_well:value|Tag:man_made=water_well}}} | water_well]]
+||
+||[[File:Faryab- village dug well.JPG|100px|center]]
+|-
+||9.||Mercusuar||{{icon|n}}||Bangunan di sekitar pantai untuk mengarahkan kapal yang mendekat
+||[[{{{man_made:key|key:man_made}}} |man_made]]
+||[[{{{lighthouse:value|Tag:man_made=lighthouse}}} | lighthouse]]
+||[[File:Lighthouse-16.svg|32px|center]]
+||[[File:Casa didier55 011.jpg|100px|center]]
+|-
+||10.||Air Mancur||{{icon|n}}||Objek hiburan yang memancurkan air dari bawah ke atas dengan berbagai macam bentuk
+||[[{{{amenity:key|key:amenity}}} |amenity]]
+||[[{{{fountain:value|Tag:amenity=fountain}}} |fountain]]
+||[[File:Fountain-14.svg|28px|center]]
+||[[File:Air Mancur Taman Bekapai Balikpapan.jpg|100px|center]]
+|-
+||11.||Rumah Pompa||{{icon|n}} {{icon|a}}||Banguan yang berfungsi untuk mengalirkan air ke laut/sungai. Mengatur aliran air
+||[[{{{man_made:key|key:man_made}}} |man_made]]
+||[[{{{watermill:value|Tag:man_made=watermill}}} | watermill]]
+||
+||[[File:Rumah pompa.png|100px|center]]
+|-
+||12.||Situs Bersejarah||{{icon|n}}||Lokasi yang memiliki nilai sejarah atau tempat terjadinya suatu kejadian bersejarah
+||[[{{{historic:key|key:historic}}} |historic]]
+||[[{{{archaeological_site:value|Tag:historic=archaeological_site}}} | archaeological_site]]
+||[[File:Archaeological-site-16.svg|32px|center]]
+||[[File:Candi Agung (2).jpg|100px|center]]
+|-
+||13.||Tugu||{{icon|n}}||Tiang besar dan tinggi yang dibuat dari batu, bata, dan sebagainya. Biasanya sebagai simbol suatu daerah / kejadian
+||[[{{{historic:key|key:historic}}} |historic]]
+||[[{{{memorial:value|Tag:historic=memorial}}} | memorial]]
+||[[File:Memorial-16.svg|32px|center]]
+||[[File:Tugu of Yogyakarta 001.jpg|100px|center]]
+|-
+||14.||Monumen||{{icon|n}}||Bangunan atau tempat yang mempunyai nilai sejarah yang penting dan dipelihara dan dilindungi negara. Lebih besar dari tugu
+||[[{{{historic:key|key:historic}}} |historic]]
+||[[{{{monument:value|Tag:historic=monument}}} | monument]]
+||[[File:Monument-16.svg|32px|center]]
+||[[File:Jakarta Indonesia National-Monument-02.jpg|100px|center]]
+|-
+||15.||Prasasti||{{icon|n}}||Piagam (yang tertulis pada batu, tembaga, dan sebagainya)
+||[[{{{historic:key|key:historic}}} |historic]]
+||[[{{{rune_stone:value|Tag:historic=rune_stone}}} | rune_stone]]
+||
+||[[File:Prasasti tugu.jpg|100px|center]]
+|-
+|}
+
+==Beberapa Atribut Informasi tambahan pada OBJEK BANGUNAN==
+Jika anda mengambarkan suatu objek dengan menggunakan atribut '''''[[{{{building:key|key:building}}} | building]]''''' maka sebaiknya anda menambahkan juga beberapa informasi yang terkait bangunan yang ada di bawah ini: 
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Informasi
+!Key
+!Value
+!Keterangan
+|-
+||1.
+||Jenis Bangunan
+||[[{{{building:key|key:building}}} | building]]
+||''User Defined'' maksudnya adalah value ditentukan oleh pengguna sesuai dengan informasi bangunan tersebut
+||Informasi jenis bangunan terhadap objek yang kita petakan. Value dari key ini dapat kita sesuaikan dengan objek yang kita petakan. Sebagai contoh objek kita adalah sekolah maka kita dapat menambahkan tag '''''building=school''''' pada objek tersebut. Untuk informasi lengkapnya silahkan klik [[Key:building| di sini]]
+|-
+||2.
+||Jumlah Lantai
+||[[{{{building:levels:key|key:building:levels}}} | building:levels]]
+||''User Defined'' maksudnya adalah value ditentukan oleh pengguna sesuai dengan informasi bangunan tersebut
+||Informasi jumlah lantai pada objek bangunan yang kita petakan. Value dari key ini dapat kita sesuaikan dengan objek yang kita petakan. Sebagai contoh bangunan tersebut memiliki jumlah lantai sebanyak 3 maka kita dapat menambahkan tag '''''building:levels=3''''' pada objek tersebut. Untuk informasi lengkapnya silahkan klik [[Key:building:levels| di sini]]
+|-
+||3.
+||Struktur Bangunan
+||building:structure
+||
+*reinforced_masonry (ini untuk bangunan dengan tembok dengan penguat beton bertulang)
+*unreinforce_masonry (ini untuk bangunan tanpa tembok dengan penguat beton bertulang)
+*platered (ini untuk bangunan dengan struktur tembok berplester)
+*confined_masonry (ini untuk bangunan dengan struktur rangka beton bertulang)
+*brick (ini untuk bangunan yang hanya menggunakan batu bata tanpa struktur beton)
+*wood (bangunan yang hanya menggunakan struktur kayu)
+||Informasi mengenai struktur bangunan. Value dari key ini dapat kita sesuaikan dengan objek yang kita petakan. Sebagai contoh bangunan tersebut memiliki struktur beton bertulang maka kita dapat menambahkan tag '''''building:structure=reinforced_masonry''''' pada objek tersebut. Untuk informasi lengkapnya silahkan klik [https://taginfo.openstreetmap.org/keys/building%3Astructure#overview| di sini]
+|-
+||4.
+||Alamat
+||[[{{{addr:full:key|key:addr:full}}} | addr:full]]
+||''User Defined'' maksudnya adalah value ditentukan oleh pengguna sesuai dengan informasi bangunan tersebut
+||Informasi alamat bangunan yang kita petakan. Sebagai contoh bangunan tersebut memiliki alamat di Jalan MH.Thamrin maka kita dapat menambahkan tag '''''addr=Jalan M.H Thamrin''''' pada objek tersebut. Untuk informasi lengkapnya silahkan klik [[Key:addr:full| di sini]]
+|-
+||5.
+||Tinggi Bangunan
+||[[{{{height:key|key:height}}} | height]]
+||''User Defined'' maksudnya adalah value ditentukan oleh pengguna sesuai dengan informasi bangunan tersebut
+||Informasi tinggi bangunan yang kita petakan. Sebagai contoh bangunan tersebut memiliki tinggi sekitar 10 meter maka kita dapat menambahkan tag '''''height=10''''' pada objek tersebut. Untuk informasi lengkapnya silahkan klik [[Key:height| di sini]]
+|-
+||6.
+||Nomor Rumah / bangunan
+||[[{{{addr:housenumber:key|key:addr:housenumber}}} | addr:housenumber]]
+||''User Defined'' maksudnya adalah value ditentukan oleh pengguna sesuai dengan informasi bangunan tersebut
+||Informasi nomor rumah / bangunan yang kita petakan. Sebagai contoh bangunan tersebut memiliki alamat nomor bangunan 5 maka kita dapat menambahkan tag '''''addr:housenumber=5''''' pada objek tersebut. Untuk informasi lengkapnya silahkan klik [[Key:addr| di sini]]
+|-
+||7.
+||Nama Bangunan
+||[[{{{name:key|key:name}}} | name]]
+||''User Defined'' maksudnya adalah value ditentukan oleh pengguna sesuai dengan informasi bangunan tersebut
+||Informasi nama bangunan yang kita petakan. Sebagai contoh nama bangunan tersebut adalah Rumah Makan Enak maka kita dapat menambahkan tag '''''name=Rumah Makan Enak''''' pada objek tersebut. Untuk informasi lengkapnya silahkan klik [[Key:name| di sini]]
+|-
+||8.
+||Tipe Dinding
+||building:walls
+||
+*brick (bangunan dengan tipe dinding batu bata)
+*wood (bangunan dengan tipe dinding papan kayu)
+*bamboo (bangunan dengan tipe dinding bambu)
+*tin (bangunan dengan tipe dinding seng)
+||Informasi mengenai tipe dinding suatu bangunan. Value dari key ini dapat kita sesuaikan dengan objek yang kita petakan. Sebagai contoh bangunan tersebut memiliki tipe dinding batu bata maka kita dapat menambahkan tag '''''building:walls=brick''''' pada objek tersebut. Untuk informasi lengkapnya silahkan klik [https://taginfo.openstreetmap.org/keys/building%3Awalls#overview| di sini]
+|-
+|9.
+||Tipe Atap
+||building:roof
+||
+*tile (bangunan dengan tipe atap genteng)
+*tin (bangunan dengan tipe atap seng)
+*asbestos (bangunan dengan tipe atap asbes)
+*concrete (bangunan dengan tipe atap beton)
+||Informasi mengenai tipe atap suatu bangunan. Value dari key ini dapat kita sesuaikan dengan objek yang kita petakan. Sebagai contoh bangunan tersebut memiliki tipe atap seng maka kita dapat menambahkan tag '''''building:roof=tile''''' pada objek tersebut. Untuk informasi lengkapnya silahkan klik [https://taginfo.openstreetmap.org/keys/building%3Aroof| di sini]
+|-
+|10.
+||Akses ke Atap
+||access:roof
+||
+* yes (Jika bangunan tersebut memiliki akses untuk ke atap)
+* no (Jika bangunan tersebut tidak memiliki akses untuk ke atap)
+||Informasi akses ke atap dari suatu bangunan dapat dituliskan tag seperti berikut '''''access:roof=yes''''' jika bangunan tersebut ada akses ke atap. Untuk informasi lengkapnya silahkan klik [[https://taginfo.openstreetmap.org/keys/access%3Aroof| di sini]]
+|-
+|}
+
+=OBJEK POLIGON (AREA)=
+Daftar objek di bawah ini merupakan jenis objek yang digambarkan sebagai area. Sebagian besar objek area ini adalah penggunaan lahan. Semua objek yang berbentuk poligon (area) ini ditandai dengan simbol {{icon|a}}. Berikut adalah daftar objek-objek penggunaan lahan di Indonesia:
+ 
+==Penggunaan Lahan==
+
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Kebun/Ladang||{{icon|a}}||Sebidang tanah yang ditanami pohon musiman (buah-buahan dan sebagainya)
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{orchard:value|Tag:landuse=orchard}}} | orchard]]
+||[[File:Orchard.png|100px|center]]
+||[[File:Kebun sawit di tanam kenaf.jpg|100px|center]]
+|-
+||2.||Sawah||{{icon|a}}\||Tanah yang digarap dan diairi untuk tempat menanam padi
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{farmland:value|Tag:landuse=farmland}}} | farmland]]
+||[[File:Rendering-landuse-farm-mapnik.png|100px|center]]
+||[[File:2006 1002 nan thailand rice.jpg|100px|center]]
+|-
+||3.||Permukiman||{{icon|a}}||Wilayah tempat untuk mendirikan rumah / tempat tinggal
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{residential:value|Tag:landuse=residential}}} | residential]]
+||[[File:Rendering-area-landuse-residential.png|100px|center]]
+||[[File:Tanah-merah.jpg|100px|center]]
+|-
+||4.||Kawasan Industri||{{icon|a}}||Kawasan yang didalamnya terdapat kegiatan memproses atau mengolah barang dengan menggunakan sarana dan peralatan, misalnya mesin
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{industrial:value|Tag:landuse=industrial}}} | industrial]]
+||[[File:Landuse-industrial.png|100px|center]]
+||[[File:Kaesong model complex.jpg|100px|center]]
+|-
+||5.||Rawa||{{icon|a}}||Tanah yang rendah (umumnya di daerah pantai) dan digenangi air, biasanya banyak terdapat tumbuhan air di dalamnya
+||[[{{{natural:key|key:natural}}} | natural]]
+||[[{{{wetland:value|Tag:natural=wetland}}} | wetland]]
+||[[File:Rendering-area-natural-marsh-osmarender.png|100px|center]]
+||[[File:Laguna01.jpg|100px|center|100px|center]]
+|-
+||6.||Hutan||{{icon|a}}||Tanah luas yang ditumbuhi pohon-pohon campuran dari berbagai jenis (biasanya tidak dimiliki oleh individu)
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{forest:value|Tag:landuse=forest}}} | forest]]
+||[[File:Landuse-forest.png|100px|center]]
+||[[File:Hutan Negara TN Gunung Ciremai (1).jpg|100px|center]]
+|-
+||7.||Perkantoran||{{icon|a}}||Tempat yang memiliki berbagai macam kantor dan kegiatan ekonomi
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{commercial:value|Tag:landuse=commercial}}} | commercial]]
+||[[File:Landuse-commercial.png|100px|center]]
+||[[File:Jakarta Indonesia High-rises-Jalan-Thamrin-01.jpg|100px|center]]
+|-
+||8.||Pemakaman||{{icon|a}}||Tanah tempat menguburkan jenazah
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{cemetery:value|Tag:landuse=cemetery}}} | cemetery]]
+||[[File:Landuse-cemetery.png|100px|center]]
+||[[File:Taman Pemakaman Umum Tanah Kusir.JPG|100px|center]]
+|-
+||9.||Konstruksi/Lahan Pembangunan||{{icon|a}}||Area yang sedang dilakukan pembangunan
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{construction:value|Tag:landuse=construction}}} | construction]]
+||[[File:Rendering-landuse-construction-mapnik.png|100px|center]]
+||[[File:A factory fit for the future (8756741567).jpg|100px|center]]
+|-
+||10.||Tanah Lapang||{{icon|a}}||Tanah yang tidak dipakai atau direncanakan akan dipakai. Bangunan-bangunan di atasnya sudah dihancurkan.Area yang sedang dilakukan pembangunan
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{brownfield:value|Tag:landuse=brownfield}}} | brownfield]]
+||[[File:Landuse-brownfield.png|100px|center]]
+||[[File:Lapang 1.jpg|100px|center]]
+|-
+||11.||Tempat Pembuangan Sampah||{{icon|a}}||Area yang difungsikan sebagai tempat pembuangan sampah akhir
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{landfill:value|Tag:landuse=landfill}}} | landfill]]
+||[[File:Rendering-landuse-landfill-mapnik.png|100px|center]]
+||[[File:Bantar Gebang.JPG|100px|center]]
+|-
+||12.||Padang Rumput||{{icon|a}}||Tanah Luas yang ditumbuhi oleh rerumputan
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{grass:value|Tag:landuse=grass}}} | grass]]
+||[[File:Mapnik landuse grass .png|100px|center]]
+||[[File:Kebar Valley 3.jpg|100px|center]]
+|-
+||13.||Semak Belukar||{{icon|a}}||Wilayah yang ditumbuhi pohon-pohon rendah, berdaun kecil-kecil, dan berbatang keras
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{meadow:value|Tag:landuse=meadow}}} | meadow]]
+||[[File:Landuse Meadow.png|100px|center]]
+||[[File:Pohon di semak belukar (32).JPG|100px|center]]
+|-
+||14.||Pertokoan||{{icon|a}}||Tempat yang memiliki berbagai macam toko mudah dikunjungi oleh pembeli dari berbagai lapisan masyarakat
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{retail:value|Tag:landuse=retail}}}|retail]]
+||[[File:Landuse-retail.png|100px|center]]
+||[[File:Mangga Dua Square.JPG|100px|center]]
+|-
+||15.||Taman Bunga||{{icon|a}}||Taman yang didalmnya terdapat berbagai jenis bunga-bunga
+||[[{{{leisure:key|key:leisure}}} | leisure]]
+||[[{{{garden:value|Tag:leisure=garden}}}|garden]]
+||[[File:Rendering-area-leisure-garden.png|100px|center]]
+||[[File:Butchart gardens.JPG|100px|center]]
+|-
+||16.||Taman Nasional||{{icon|a}}||Area yang diliindungi oleh pemerintah. Biasanya didalamnya terdapat hutan serta flora dan fauna
+||[[{{{leisure:key|key:leisure}}} | leisure]]
+||[[{{{nature_reserve:value|Tag:leisure=nature_reserve}}}|nature_reserve]]
+||[[File:Nature reserve2.png|center]]
+||[[File:Taman Nasional Bantimurung Bulusaraung.jpg|100px|center]]
+|-
+||17.||Taman Rekreasi||{{icon|a}}||Tempat yang mempunyai berbagai jenis hiburan dan pertunjukan
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{recreation_ground:value|Tag:landuse=recreation_ground}}}|recreation_ground]]
+||[[File:Landuse-recreation ground.png|100px|center]]
+||[[File:Datuk Wira Poh Ah Tiam Machap Recreational Park.JPG|100px|center]]
+|-
+|}
+
+==Perairan==
+
+Objek perairan yang berbentuk area (polygon) yang dapat dipetakan di OpenStreetMap yaitu:
+
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Danau||{{icon|a}}||Genangan air yang amat luas dan dikelilingi oleh daratan. Terbentuk secara alami
+||[[{{{natural:key|key:natural}}} | natural]]
+||[[{{{water:value|Tag:natural=water}}} | water]]
+||[[File:Rendering-area-natural-water.png|100px|center]]
+||[[File:Danau Laut Tawar.jpg|100px|center]]
+|-
+||2.||Waduk||{{icon|a}}||Kolam besar tempat menyimpan air untuk berbagai kebutuhan atau mengatur pembagian air
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{reservoir:value|Tag:landuse=reservoir}}}|reservoir]]
+||[[File:Landuse-reservoir.png|100px|center]]
+||[[File:Waduk RiaRio After Jokowi - Hariadhi.jpg|100px|center]]
+|-
+||3.||Bantaran Sungai||{{icon|a}}||Badan air disamping sungai. Biasanya hasil endapan dari sungai
+||[[{{{waterway:key|key:waterway}}} | waterway]]
+||[[{{{riverbank:value|Tag:waterway=riverbank}}}|riverbank]]
+||[[File:Rendering-waterway-riverbank.png|100px|center]]
+||[[File:Ciliwung 090419-0298 pg.jpg|100px|center]]
+|-
+||4.||Cekungan||{{icon|a}}||Cekungan di daratan yang biasanya diisi oleh air
+||[[{{{landuse:key|key:landuse}}} | landuse]]
+||[[{{{basin:value|Tag:landuse=basin}}}|basin]]
+||[[File:Landuse-basin.png|100px|center]]
+||[[File:Baspa River flowing next to Chitkul.jpg|100px|center]]
+|-
+||5.||Pantai||{{icon|a}}||Area di pinggir laut. Biasanya digunakan untuk kegiatan pariwisata
+||[[{{{natural:key|key:natural}}} | natural]]
+||[[{{{beach:value|Tag:natural=beach}}}|beach]]
+||[[File:Rendering-area-natural-beach.png|100px|center]]
+||[[File:Pantai.png|100px|center]]
+|-
+|}
+
+==Beberapa Atribut Informasi tambahan pada OBJEK PENGGUNAAN LAHAN==
+Jika anda mengambarkan suatu objek dengan menggunakan atribut '''''[[{{{landuse:key|key:landuse}}} | landuse]]''''' maka sebaiknya anda menambahkan juga beberapa informasi yang terkait bangunan yang ada di bawah ini: 
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Informasi
+!Key
+!Value
+!Keterangan
+|-
+||1.
+||Nama Objek
+||[[{{{name:key|key:name}}} | name]]
+||''User Defined'' maksudnya adalah value ditentukan oleh pengguna sesuai dengan informasi penggunaan lahan tersebut
+||Informasi nama penggunaan lahan yang kita petakan. Sebagai contoh penggunaan lahan tersebut adalah Taman Nasional Bukit Barisan maka kita dapat menambahkan tag '''''name=Taman Nasional Bukit Barisan''''' pada penggunaan lahan tersebut. Untuk informasi lengkapnya silahkan klik [[Key:name| di sini]]
+|}
+
+=OBJEK GARIS (LINE)=
+Daftar objek di bawah ini merupakan jenis objek yang digambarkan sebagai garis atau ''line''.  Semua objek yang berbentuk garis (line) ini ditandai dengan simbol {{icon|w}}. Berikut adalah daftar objek-objek berbentuk garis di Indonesia:
+ 
+==Jalan==
+
+{| class=&quot;wikitable&quot; style=&quot;background:#FEF2BF; border: 3px dashed red;&quot;
+|+ MENUNGGU PERSETUJUAN DARI INTITUSI RESMI SEPERTI PU ATAU BIG
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Jalan Tol||{{icon|w}}||Jalan bebas hambatan. Khusus kendaraan roda empat atau lebih dan berbayar
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{motorway:value|Tag:highway=motorway}}} |motorway]]
+||[[File:Rendering-highway motorway neutral.png|center]]
+||[[File:Rambuppj.jpg|100px|center]]
+|-
+||2.||Jalan Arteri Primer||{{icon|w}}||Jalan yang menghubungkan secara efisien antar pusat kegiatan nasional atau antar pusat kegiatan nasional dengan pusat kegiatan wilayah.
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{trunk:value|Tag:highway=trunk}}} |trunk]]
+||[[File:Rendering-highway trunk L3005 MF.png|center]]
+||[[|100px|center]]
+|-
+||3.||Jalan Arteri Sekunder||{{icon|w}}||Jalan yang menghubungkan kawasan primer dengan kawasan sekunder.
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{primary:value|Tag:highway=primary}}} |primary]]
+||[[File:Rendering-highway primary neutral.png|center]]
+||[[|100px|center]]
+|-
+||4.||Jalan Kolektor Primer||{{icon|w}}||Jalan yang menghubungkan secara efisien antar pusat kegiatan wilayah atau menghubungkan antara pusat kegiatan wilayah dengan pusat kegiatan lokal
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{secondary:value|Tag:highway=secondary}}} |secondary]]
+||[[File:Rendering-highway secondary neutral.png|center]]
+||[[|100px|center]]
+|-
+||5.||Jalan Kolektor Sekunder||{{icon|w}}||Jalan yang menghubungkan antara kawasan sekunder
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{secondary_link:value|Tag:highway=secondary_link}}} |secondary_link]]
+||[[File:Rendering-highway secondary neutral.png|center]]
+||[[|100px|center]]
+|-
+||6.||Jalan Lokal||{{icon|w}}||Jalan umum yang berfungsi melayani angkutan setempat dengan ciri perjalanan jarak dekat, kecepatan rata-rata rendah
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{tertiary:value|Tag:highway=tertiary}}} |tertiary]]
+||[[File:Rendering-highway tertiary neutral.png|center]]
+||[[|100px|center]]
+|-
+||7.||Jalan Lokal Sekunder||{{icon|w}}||Jalan yang menghubungkan kawasan sekunder kesatu dengan perumahan
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{tertiary_link:value|Tag:highway=tertiary_link}}} |tertiary_link]]
+||[[File:Rendering-highway tertiary neutral.png|center]]
+||[[|100px|center]]
+|-
+||8.||Jalan Permukiman||{{icon|w}}||Jalan yang berada di wilayah permukiman / perumahan
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{residential:value|Tag:highway=residential}}} |residential]]
+||[[File:Rendering-highway residential.png|center]]
+||[[File:Jalan di Muara Muntai - Ezagren.JPG|100px|center]]
+|-
+||9.||Jalan khusus pejalan kaki||{{icon|w}}||Jalan yang dikhususkan untuk pejalan kaki. Kendaraan bermotor tidak bisa lewat. Biasanya ditemukan di area perbelanjaan atau tempat wisata
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{pedestrian:value|Tag:highway=pedestrian}}} |pedestrian]]
+||[[File:Pedestrian with area osm.png|center]]
+||[[File:Jakarta Indonesia Post-office-at-Fatahillah-Square-01.jpg|100px|center]]
+|-
+||10.||Jalan Setapak||{{icon|w}}||Jalan yang dapat dilewati oleh pejalan kaki ataupun kendaraan roda dua. Permukaannya biasanya terdiri dari tanah dan batu-batu kerikil. Jalan ini biasanya banyak terdapat di daerah pedesaan atau pegunungan. Lebarnya sekitar &lt; 1.5 meter.
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{path:value|Tag:highway=path}}} |path]]
+||[[File:Path osm.png|125px|center]]
+||[[File:Raised footway at the end of Marsh Lane - geograph.org.uk - 50345.jpg|100px|center]]
+|-
+||11.||Jalan Pematang||{{icon|w}}||Jalan yang berada di sekitar petak-petak sawah. Hanya untuk pejalan kaki
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{track:value|Tag:highway=track}}} |track]]
+||[[File:Rendering-highway track.png|center]]
+||[[File:India 3 Gender 3 (10265682234).jpg|100px|center]]
+|-
+||12.||Jalan Layanan||{{icon|w}}||Jalan yang dikhususkan untuk pelayanan tertentu. Biasanya terdapat di sekitar mal/gedung perkantoran dan sering ditemui di pinggir jalan tol (''rest area'').
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{services:value|Tag:highway=services}}} |services]]
+||[[File:Mapping Features Motorway service area.jpg|125px|centerr]]
+||[[File:Jakarta7.JPG|100px|center]]
+|-
+||13.||Gang||{{icon|w}}||Jalan kecil yang ada di area permukiman. Lebar jalan antara 1.5 - 2 meter. Bisa dilewati oleh 1 mobil dengan kecepatan rendah. Untuk gang yang hanya bisa dilewati oleh motor (&lt; 1.5 meter) silahkan gunakan Jalan Setapak
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{living_street:value|Tag:highway=living_street}}} |living_street]]
+||[[File:Living street osm.png|center|125px|centerr]]
+||[[|100px|center]]
+|-
+||14.||Jalan Belum Terklasifikasi||{{icon|w}}||Jalan yang belum diketahui klasifikasinya
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{unclassified:value|Tag:highway=unclassified}}} |unclassified]]
+||[[File:Rendering-highway unclassified.png|center]]
+||[[File:Unclassified road off the A712 - geograph.org.uk - 1411092.jpg|100px|center]]
+|-
+|}
+
+==Transportasi==
+
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Jembatan||{{icon|w}}||Jalan (dari bambu, kayu, beton, dan sebagainya) yang direntangkan di atas sungai (jurang, tepi pangkalan, dan sebagainya)
+||[[{{{bridge:key|key:bridge}}} | bridge]]
+||[[{{{bridge:value|Tag:bridge=yes}}} |yes]]
+||[[File:Railway bridge mapnick render.jpg|100px|center]]
+||[[File:Jembatan Kalahien.jpg|100px|center]]
+|-
+||2.||Jalur Kereta Api||{{icon|w}}||Jalur untuk kereta api
+||[[{{{railway:key|key:railway}}} | railway]]
+||[[{{{rail:value|Tag:railway=rail}}} |rail]]
+||[[File:Mapping-Features-Railroad-With-Station.png|100px|center]]
+||[[File:Semboyan 2A1 09-2015.jpg|100px|center]]
+|-
+||3.||Terowongan||{{icon|w}}||Tembusan dalam tanah atau gunung dan digunakan untuk jalan kereta api dan transportasi
+||[[{{{tunnel:key|key:tunnel}}} | tunnel]]
+||[[{{{yes:value|Tag:tunnel=yes}}} |yes]]
+||
+||[[File:Lpn010414 3.JPG|100px|center]]
+|-
+||4.||Landasan Pacu Pesawat||{{icon|w}}||Jalan untuk tinggal landas ataupun mendarat pesawat
+||[[{{{aeroway:key|key:aeroway}}} | aeroway]]
+||[[{{{runway:value|Tag:aeroway=runway}}} |runway]]
+||[[File:Rendering-aeroway runway.png|100px|center]]
+||[[File:Sam ratulangi airport.jpg|100px|center]]
+|-
+||5.||Jalur Sepeda||{{icon|w}}||Jalur khusus untuk pengendara sepeda
+||[[{{{highway:key|key:highway}}} | highway]]
+||[[{{{cycleway:value|Tag:highway=cycleway}}} |cycleway]]
+||[[File:Cycleway osm.png|125px|center]]
+||[[File:Jalur sepeda sentul city.jpg|100px|center]]
+|-
+||6.||Jalur Bus||{{icon|w}}||Jalur khusus untuk bus
+||[[{{{busway:key|key:busway}}} | busway]]
+||[[{{{lane:value|Tag:busway=lane}}} |lane]]
+||
+||[[Image:Buslane.jpg|100px|center]]
+|-
+|}
+
+==Perairan==
+
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Nama Objek
+!Jenis Objek
+!Deskripsi
+!Key
+!Value
+!Simbol di OSM
+!Foto
+|-
+||1.||Sungai||{{icon|w}}||Aliran air yang besar (biasanya buatan alam) dari tempat yang tinggi (pegunungan) ke tempat yang lebih rendah (pantai)
+||[[{{{waterway:key|key:waterway}}} | waterway]]
+||[[{{{river:value|Tag:waterway=river}}} |river]]
+||[[File:Rendering-waterway-river.png|100px|center]]
+||[[File:Sungai Pela - Ezagren.JPG|100px|center]]
+|-
+||2.||Tanggul||{{icon|w}}||Tembok di tepi sungai dan sebagainya untuk menahan air
+||[[{{{man_made:key|key:man_made}}} | man_made]]
+||[[{{{embankment:value|Tag:man_made=embankment}}} |embankment]]
+||[[File:Cliff2.png|center]]
+||[[File:Sacramento River Levee.jpg|100px|center]]
+|-
+||3.||Gorong-Gorong||{{icon|w}}||Saluran air yang berada di permukaan atau di dalam tanah
+||[[{{{tunnel:key|key:tunnel}}} | tunnel]]
+||[[{{{culvert:value|Tag:tunnel=culvert}}} |culvert]]
+||
+||[[File:Multi Plate Super Span.jpg|100px|center]]
+|-
+||4.||Bendungan||{{icon|w}}||Bangunan yang bersifat kontinu dan padat yang melintangi sebuah sungai dan tujuannya untuk mengalihkan, mengawasi, dan mengukur aliran air
+||[[{{{waterway:key|key:waterway}}} | waterway]]
+||[[{{{dam:value|Tag:waterway=dam}}} |dam]]
+||
+||[[File:Bendungan Kepuh Palimanan.jpg|100px|center]]
+|-
+||5.||Garis Pantai||{{icon|w}}||Batas antara daratan dengan laut
+||[[{{{natural:key|key:natural}}} | natural]]
+||[[{{{coastline:value|Tag:natural=coastline}}} |coastline]]
+||[[File:Rendering-area-natural-coastline.png|100px|center]]
+||[[File:Pantai Ambalat.jpg|100px|center]]
+|}
+
+==Beberapa Atribut Informasi tambahan pada OBJEK GARIS==
+
+Jika anda mengambarkan suatu objek dengan menggunakan atribut '''''[[{{{landuse:key|key:landuse}}} | landuse]]''''' maka sebaiknya anda menambahkan juga beberapa informasi yang terkait bangunan yang ada di bawah ini: 
+{| class=&quot;wikitable&quot;
+|-
+!No.
+!Informasi
+!Key
+!Value
+!Keterangan
+|-
+||1.
+||Arah Jalan
+||[[{{{oneway:key|key:oneway}}} | oneway]]
+||
+* yes (Jika jalan tersebut memang hanya untuk 1 arah saja)
+* no (Jika jalan tersebut dapat dilalui oleh 2 arah)
+||Informasi arah jalan dapat dituliskan tag seperti berikut '''''oneway=yes''''' jika jalan tersebut terbatas untuk 1 arah saja. Untuk informasi lengkapnya silahkan klik [[Key:oneway| di sini]]
+|-
+||2.
+||Layer (Tingkatan)
+||[[{{{layer:key|key:layer}}} | layer]]
+||
+*-5 sampai 5
+*Nilai 0 adalah nilai awal dari suatu layer jalan/garis yang artinya objek jalan/garis tersebut berada ''tepat'' di atas permukaan tanah. Jika lebih besar dari 0 maka berada di atas tanah dan lebih kecil dari 0 berada di bawah permukaan tanah)
+||Informasi ''layer'' (tingkatan) jalan dapat dituliskan tag seperti berikut '''''layer=1''''' artinya jalan tersebut berada 1 tingkat di atas jalan utama yang berada tepat '''di atas tanah''' atau '''''layer=-1''''' artinya jalan tersebut berada 1 tingkat '''di bawah permukaan tanah'''. Untuk informasi lengkapnya silahkan klik [[Key:layer| di sini]]
+|-
+||3.
+||Jumlah Ruas Jalan
+||[[{{{lanes:key|key:lanes}}} |lanes]]
+||''User Defined'' maksudnya adalah value ditentukan oleh pengguna sesuai dengan jumlah ruas jalan yang ingin dipetakan. Rentang dimulai dari 1 hingga seterusnya
+||Satu jalan bisa terdiri dari 2 atau lebih ruas jalan. Biasanya ruas jalan ini ditandai oleh garis putih putus-putus. Sebagai contoh suatu jalan memiliki 3 ruas jalan maka Informasi jumlah ruas jalan dapat dituliskan tag seperti berikut '''''lanes=3''''' Untuk informasi lengkapnya silahkan klik [[Key:lanes| di sini]]
+|-
+||4.
+||Lebar Objek
+||[[{{{width:key|key:width}}} |width]]
+||''User Defined'' maksudnya adalah value ditentukan oleh pengguna sesuai dengan lebar jalan yang dipetakan.
+||Lebar jalan dapat juga dijadikan infromasi terhadap suatu objek garis baik itu jalan ataupun objek garis yang lain. Sebagai contoh suatu jalan memiliki lebar sebesar 10 meter maka dapat dituliskan tag seperti berikut '''''width=10''''' Untuk informasi lengkapnya silahkan klik [[Key:width| di sini]]
+|-
+||5.
+||Permukaan Jalan
+||[[{{{surface:key|key:surface}}} |surface]]
+||
+* asphalt (jalan tersebut memiliki permukaan aspal)
+* concrete (jalan tersebut memiliki permukaan beton)
+* metal (jalan tersebut memiliki permukaan besi / baja. Biasanya terdapat pada jembatan)
+* wood (jalan tersebut memiliki permukaan kayu)
+* grass (jalan tersebut memiliki permukaan rumput)
+* ground (jalan tersebut memiliki permukaan tanah)
+* gravel (jalan tersebut memiliki permukaan batu-batu kerikil)
+* mud (jalan tersebut memiliki permukaan lumpur)
+* sand (jalan tersebut memiliki permukaan pasir)
+||Permukaan merupakan jenis lapisan pada objek jalan / garis yang ingin kita petakan . Sebagai contoh suatu jalan memiliki permukaan aspal maka dapat dituliskan tag seperti berikut '''''surface=asphalt''''' Untuk informasi lengkapnya silahkan klik [[Key:surface| di sini]]
+|-
+||6.
+||Kondisi Jalan
+||[[{{{smoothness:key|key:smoothness}}} |smoothness]]
+||
+* excellent (kondisi jalan sangat baik dan mulus; tidak terdapat lubang sama sekali biasanya terdapat di lintasan balap)
+* good (kondisi jalan bagus dan mulus; biasanya terdapat di Jalan Tol)
+* intermediate (kondisi jalan lumayan bagus, masih terdapat beberapa lubang-lubang kecil; biasanya terdapat di jalan perkotaan)
+* bad (kondisi jalan buruk; terdapat banyak lubang-lubang yang dapat membahayakan pengguna jalan)
+* very bad (kondisi jalan tidak mulus dan bergeririgi; permukaan jalan terdiri dari tanah dan kerikil-kerikil kecil)
+* horrible (kondisi jalan tidak dapat dilalui mobil perkotaan tapi bisa dilalui oleh mobil/kendaraan semi off-road; permukaan terdiri dari pasir dan batu-batu besar)
+* very horrible (kondisi jalan tidak dapat dilalui oleh kendaraan kecil dan hanya dapat dilewati oleh kendaraan berat (tractor), atv dan kendaraan off-road; permukaan terdiri dari lumpur, batu, pasir dan kerikil)
+* impassable (kondisi jalan sangat rusak dan tidak dapat dilewati oleh kendaraan apapun)
+||Kondisi Jalan merupakan kondisi permukaan jalan tersebut dimana biasanya dilihat dari kehalusan permukaan serta jenis kendaraan yang dapat melewati jalan tersebut. Sebagai contoh suatu jalan memiliki kondisi permukaan cukup halus tetapi masih terdapat lubang-lubang kecil seperti jalan di perkotaan. Jalan tersebut dapat kita tambahkan tag seperti berikut '''''smoothness=intermediate''''' Untuk informasi lengkapnya silahkan klik [[Key:smoothness| di sini]]
+|-
+|}</text>
+      <sha1>6j42vgsp6400dhspt52egktnsh4kmre</sha1>
+    </revision>
+  </page>
+</mediawiki>

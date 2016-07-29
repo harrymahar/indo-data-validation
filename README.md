@@ -8,7 +8,7 @@ This is repository of HOT Indonesia for provided some guidances for OSM Data Val
 
 2. **Tracing Guide**
 
-   This is OSM Wikipedia page which show list of object type and object description in Indonesia. It also shows its OSM key and values. This can be used as a guide for OSM users in Indonesia when they want to add or edit their objects and as improve its quality. For online version for this tracing guide please look at http://www.wiki.openstreetmap.org/wiki/Id:Referensi_Atribut_Objek_OSM_Indonesia
+   This is OSM Wikipedia page which show list of object type and object description in Indonesia. It also shows its OSM key and values. This can be used as a guide for OSM users in Indonesia when they want to add or edit their objects and as improve its quality. In this repository its name is 'referensi-atribut-indonesia' and provided in PDF and XML format. For online version for this tracing guide please look at http://www.wiki.openstreetmap.org/wiki/Id:Referensi_Atribut_Objek_OSM_Indonesia
 
 3. **Field Survey Guide**
 
