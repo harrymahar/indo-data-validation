@@ -4,7 +4,7 @@ This is repository of HOT Indonesia for provided some guidances for OSM Data Val
 
 1. **OSM Indonesia Presets**
 
-   This is official presets for OSM Mapping in Indonesia. This presets made based on 4 years HOT Indonesia mapping training experience in Indonesia. We compile all important objects and information that often needen when map area in Indonesia. Using this presets, we hope quality of information and attributes objects in Indonesia can be improved so OSM data in Indonesia can be more reliable to use.
+   This is the official presets for OSM Mapping in Indonesia. This presets made based on 4 years HOT Indonesia mapping training experience in Indonesia. We compile all important objects and information that often need to be mapped while doing mapping in Indonesia. With this presets, we hope the quality of information and attributes objects in Indonesia can be improved so OSM data in Indonesia can be more reliable to use.
 
 2. **Tracing Guide**
 
