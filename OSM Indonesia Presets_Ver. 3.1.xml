@@ -342,7 +342,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				
@@ -358,7 +358,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				
@@ -402,7 +402,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				
@@ -418,7 +418,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				
@@ -463,7 +463,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				
@@ -479,7 +479,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				
@@ -517,7 +517,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 					
@@ -542,7 +542,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 					
@@ -558,7 +558,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 					
@@ -576,7 +576,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 					
@@ -603,7 +603,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 					
@@ -619,7 +619,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 					
@@ -690,7 +690,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -712,7 +712,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 					
@@ -736,7 +736,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -759,7 +759,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -782,7 +782,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -804,7 +804,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -826,7 +826,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -848,7 +848,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -867,7 +867,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -889,7 +889,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -908,7 +908,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -927,7 +927,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -946,7 +946,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -968,7 +968,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -987,7 +987,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1006,7 +1006,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1025,7 +1025,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1043,7 +1043,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1055,7 +1055,7 @@
 					<link href="http://wiki.openstreetmap.org/wiki/Id:Kantor_Pemerintahan" text="Informasi lebih lanjut tentang objek ini"/>
 				<space/>	
 					<key key="office" value="government" />
-					<key key="admin_level" value="9"/>
+					<key key="admin_level" value="10"/>
 					<text key="name" text="Nama" />
 					<text key="addr:full" text="Alamat"/>
 					<combo key="building" text="Apakah ini Bangunan?" values="neighborhood_unit_office,no" display_values="Ya,Tidak"/>
@@ -1065,7 +1065,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1074,7 +1074,7 @@
 					<link href="http://wiki.openstreetmap.org/wiki/Id:Kantor_Pemerintahan" text="Informasi lebih lanjut tentang objek ini"/>
 				<space/>	
 					<key key="office" value="government" />
-					<key key="admin_level" value="8"/>
+					<key key="admin_level" value="9"/>
 					<text key="name" text="Nama" />
 					<text key="addr:full" text="Alamat"/>
 					<combo key="building" text="Apakah ini Bangunan?" values="community_group_office,no" display_values="Ya,Tidak"/>
@@ -1084,7 +1084,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />				
 			</item>	
@@ -1106,7 +1106,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>	
@@ -1128,7 +1128,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1150,7 +1150,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1172,7 +1172,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1194,7 +1194,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1215,7 +1215,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1237,7 +1237,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1255,7 +1255,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1273,7 +1273,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1284,7 +1284,7 @@
 				<item name="Warung" icon="presets/kiosk.png" type="node,closedway" preset_name_label="true">
 						<link href="http://wiki.openstreetmap.org/wiki/Id:Fasilitas_Komersial" text="Informasi lebih lanjut tentang objek ini"/>
 					<space/>	
-						<key key="amenity" value="kiosk" />
+						<key key="shop" value="kiosk" />
 						<text key="name" text="Nama" />
 						<text key="addr:full" text="Alamat"/>
 						<combo key="building" text="Apakah ini Bangunan?" values="kiosk,no" display_values="Ya,Tidak"/>
@@ -1294,7 +1294,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1312,7 +1312,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1330,7 +1330,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1348,7 +1348,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1366,7 +1366,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1384,7 +1384,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1402,7 +1402,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1420,7 +1420,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1441,7 +1441,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1459,7 +1459,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1480,7 +1480,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1498,7 +1498,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -1516,7 +1516,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>		
@@ -1537,7 +1537,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1555,7 +1555,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1573,7 +1573,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1591,7 +1591,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1612,7 +1612,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1630,7 +1630,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1648,7 +1648,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1666,7 +1666,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1684,7 +1684,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1702,7 +1702,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1723,7 +1723,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1741,7 +1741,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1759,7 +1759,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1780,7 +1780,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1798,7 +1798,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1816,7 +1816,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1837,7 +1837,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1855,7 +1855,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1873,7 +1873,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1891,7 +1891,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1909,7 +1909,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1927,7 +1927,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1945,7 +1945,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1963,7 +1963,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -1981,7 +1981,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2002,7 +2002,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2020,7 +2020,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />	
 				</item>
@@ -2042,7 +2042,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2060,7 +2060,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2081,7 +2081,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2099,7 +2099,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2117,7 +2117,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2135,7 +2135,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />	
 			</item>
@@ -2153,7 +2153,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2171,7 +2171,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2189,7 +2189,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2207,7 +2207,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2225,7 +2225,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2243,7 +2243,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2261,7 +2261,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2279,7 +2279,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2298,7 +2298,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2317,7 +2317,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2336,7 +2336,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2358,7 +2358,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2376,7 +2376,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2394,7 +2394,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2412,7 +2412,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2430,7 +2430,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2448,7 +2448,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2466,7 +2466,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2484,7 +2484,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2502,7 +2502,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2520,7 +2520,7 @@
 					<text key="capacity" text="Kapasitas"/>
 					<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 					<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+					<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 					<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 					<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 			</item>
@@ -2540,7 +2540,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2557,7 +2557,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2575,7 +2575,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2593,7 +2593,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />		
 		</item>
@@ -2612,7 +2612,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2630,7 +2630,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2695,7 +2695,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2720,7 +2720,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2775,7 +2775,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2793,7 +2793,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2811,7 +2811,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2829,7 +2829,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2847,7 +2847,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2865,7 +2865,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2883,7 +2883,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2901,7 +2901,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2919,7 +2919,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2937,7 +2937,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2955,7 +2955,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2973,7 +2973,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -2991,7 +2991,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -3009,7 +3009,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -3027,7 +3027,7 @@
 						<text key="capacity" text="Kapasitas"/>
 						<combo key="building:levels" text="Jumlah Tingkat" values="1,2,3,4-7,>7"/>
 						<combo key="building:structure" text="Struktur Bangunan"  values="reinforced_masonry,unreinforced_masonry,plastered,confined_masonry" display_values="Tembok dengan penguat beton bertulang,Tembok tanpa penguat beton bertulang,Tembok berplester,Rangka beton bertulang" />
-						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bamboo (bamboo),seng (tin)" />
+						<combo key="building:walls" text="Tipe Dinding" values="brick,wood,bamboo,tin" display_values="bata (brick),papan kayu (wood),bambu (bamboo),seng (tin)" />
 						<combo key="building:roof" text="Tipe Atap" values="tile,tin,asbestos,concrete" display_values="genteng (tile),seng (tin),asbes (asbestos),beton (concrete)" />
 						<combo key="access:roof" text="Akses ke Atap" values="yes,no" display_values="Ada,Tidak Ada" />
 				</item>
@@ -3042,7 +3042,7 @@
 			<text key="name" text="Nama" />
 		</item>
 		
-		<item name="Bantaran Sungai" icon="styles/standard/nautical/waterway_riverbank.svg" type="closedway,multipolygon" preset_name_label="true">
+		<item name="Badan Sungai" icon="styles/standard/nautical/waterway_riverbank.svg" type="closedway,multipolygon" preset_name_label="true">
 			<link href="http://wiki.openstreetmap.org/wiki/Id:Perairan" text="Informasi lebih lanjut tentang objek ini"/>
 			<key key="waterway" value="riverbank" />
 			<text key="name" text="Nama" />
@@ -3054,7 +3054,7 @@
 			<text key="name" text="Nama" />
 		</item>
 		
-		<item name="Sumber Air" icon="styles/standard/misc/landmark/spring.svg" type="node,closedway" preset_name_label="true">
+		<item name="Mata Air" icon="styles/standard/misc/landmark/spring.svg" type="node,closedway" preset_name_label="true">
 			<link href="http://wiki.openstreetmap.org/wiki/Id:Perairan" text="Informasi lebih lanjut tentang objek ini"/>
 			<key key="natural" value="spring" />
 			<text key="name" text="Nama" />
